@@ -1,0 +1,20 @@
+{
+  "name": "mars-one",
+  "version": "1.0.0",
+  "description": "a crowd-sourced subscription tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "BuildForFun",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^1.17.4"
+  },
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
