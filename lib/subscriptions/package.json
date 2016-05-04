@@ -9,6 +9,7 @@
   "author": "BuildForFun",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.13.0",
     "underscore": "^1.8.3"
   }
 }
